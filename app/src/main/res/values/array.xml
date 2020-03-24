@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="select">
+        <item>Amigo</item>
+        <item>Ocasional</item>
+        <item>Familia</item>
+        <item>Trabajo</item>
+    </string-array>
+
+</resources>
